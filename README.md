@@ -1,6 +1,6 @@
 # qa-search-pipeline
 
-> Deepset Coding Challenge
+> Coding Challenge
 
 ## Build Setup
 
