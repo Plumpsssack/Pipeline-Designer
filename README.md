@@ -48,6 +48,7 @@ To delete an edge or a node, the user has to click on it and press the delete bu
 For a better view, the nodes can be moved as desired.
 
 **Assumptions and limitations of the solution**
+
 Currently there is no algorithm that checks if there is a circular reference or if the direction of the edges is correct (except for the query node).
 
 **How would you connect to the back-end**.
